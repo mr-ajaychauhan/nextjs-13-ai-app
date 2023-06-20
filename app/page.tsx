@@ -8,7 +8,7 @@ export default function Home() {
         <h1 className="text-6xl mb-4">The Best App</h1>
         <p className='text-2xl text-white/60 mb-4'>This is best App ever for tracking your mood.</p>
         <div>
-          <Link href='/login'>
+          <Link href='/journal'>
             <button className='bg-blue-600 rounded-lg py-2 px-4 text-xl'>
               Get Started
             </button>

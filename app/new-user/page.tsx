@@ -1,5 +1,5 @@
-export default function NewUser(){
-    return(
+export default function NewUser() {
+    return (
         <div>New User</div>
     )
 }
